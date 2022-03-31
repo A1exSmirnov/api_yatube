@@ -33,7 +33,7 @@ sudo apt-get install python3.7
 ```
 sudo apt-get install git 
 ```
-#####Запустите Git Bash (если у вас Windows) или Терминал (на Linux/MacOS)
+##### Запустите Git Bash (если у вас Windows) или Терминал (на Linux/MacOS)
 Перейдите в директорию,в которую будете клонировать репозиторий с проектом:
 ```
 cd путь к директории/
