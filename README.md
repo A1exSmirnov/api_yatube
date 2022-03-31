@@ -368,4 +368,4 @@ POST-запрос "http://127.0.0.1:8000/api/v1/jwt/verify/" - проверит�
 
 ```
 ### Контакты:
-[![ссылка на email](email.png)](mailto:cnccnc991@gmail.com)
+[Email](mailto:cnccnc991@gmail.com)
