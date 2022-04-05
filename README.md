@@ -29,6 +29,7 @@ brew install python@3.7 git
 sudo apt-get install python3.7
 ```
 Перед установкой терминал попросит вас ввести пароль администратора — сделайте это.
+
 2.Установите Git:
 ```
 sudo apt-get install git 
@@ -41,7 +42,7 @@ cd путь к директории/
 Клонируйте репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/yandex-praktikum/kittygram2plus.git
+git clone https://github.com/A1exSmirnov/api_final_yatube.git
 ```
 
 ```
